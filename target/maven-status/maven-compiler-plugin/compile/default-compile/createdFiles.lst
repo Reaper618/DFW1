@@ -1,0 +1,6 @@
+com\universidad\model\Alumno.class
+com\universidad\model\Curso.class
+com\universidad\db\DatabaseConnectionTest.class
+com\universidad\api\CursoService.class
+com\universidad\db\DatabaseConnection.class
+com\universidad\api\AlumnoService.class
